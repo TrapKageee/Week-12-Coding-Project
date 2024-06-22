@@ -13,6 +13,7 @@
     "ajax": "^0.0.4",
     "bootstrap": "^5.3.3",
     "jquery": "^3.7.1",
-    "node-modules": "^1.0.1"
+    "node-modules": "^0.0.1",
+    "node.js": "^0.0.1-security"
   }
 }
